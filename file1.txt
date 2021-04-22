@@ -1,1 +1,5 @@
 B22 Learning Git
+Hello, how are you
+I am Adam Rakhmanov
+I am doing very good
+Akbar is a good teacher
